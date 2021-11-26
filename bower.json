@@ -2,16 +2,16 @@
   "name": "bitcore-message",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/particl/particl-bitcore-message",
+  "homepage": "https://github.com/dmitry9888/falcon-bitcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Particl Message Verification and Signing for Particl",
+  "description": "Falcon Message Verification and Signing for Falcon",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "particl",
+    "falcon",
     "bitcore",
     "btc",
     "satoshi",
